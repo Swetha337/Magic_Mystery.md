@@ -13,5 +13,5 @@ STEPS TO FOLLOW: <br/>
 What did I learn: <br/>
 Got to know about the hexadecimal of a file. <br/>
 I learned how to generate and analyze a hexdump of a file using terminal commands to operate. <br/>
-You learned how to upload a file, identify errors in the hexdump, and make the necessary corrections. <br/>
+Learned how to upload a file, identify errors in the hexdump, and make the necessary corrections. <br/>
 I learned how to upload a file, identify errors in the hexdump, and make the necessary corrections in hex editors like Ghex.
